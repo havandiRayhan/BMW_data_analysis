@@ -58,9 +58,5 @@ pip install matplotlib
 
 Jalankan file Jupyter Notebook atau script Python yang tersedia.
 
-📈 Kesimpulan Awal
-
-
-
 Kontak:
 [Muhammad Rayhan Havandi] - [havandirayhan12@gmail.com]
